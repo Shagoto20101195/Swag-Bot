@@ -22,3 +22,4 @@ _For example: >command a, b_**
 
 The bot is not uploaded in any cloud server, so it remains offline all the time.
 But if you want to have it in your Discord server, then [click here.](https://discord.com/api/oauth2/authorize?client_id=851749192548483113&permissions=1073753152&scope=bot)
+Also you can direct message the bot if it is online.
