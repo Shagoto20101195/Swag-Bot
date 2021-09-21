@@ -57,7 +57,4 @@ async def on_message(message):
       ans = a // b
       await message.channel.send("Ans: {0}".format(ans))
 
-# This token must be hidden
-# client.run(os.getenv('Token')) // If you want it to be private in repl it
-# Store Token = key in .env file (Also don't forget to import os)
 client.run(os.getenv("Token"))
